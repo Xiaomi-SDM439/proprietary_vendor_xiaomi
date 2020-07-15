@@ -112,7 +112,7 @@ special_mode_mask values:
   </CommonChromatixInfo>
   <ResolutionChromatixInfo>
     <ChromatixName sensor_resolution_index="0">
-      <ISPPreview>olive_s5k2l7sx_sunny_india_preview</ISPPreview>
+      <ISPPreview>olive_s5k2l7sx_sunny_india_snapshot</ISPPreview>
       <ISPSnapshot>olive_s5k2l7sx_sunny_india_snapshot</ISPSnapshot>
       <ISPVideo>olive_s5k2l7sx_sunny_india_video_full</ISPVideo>
       <CPPPreview>olive_s5k2l7sx_sunny_india_cpp_preview</CPPPreview>
@@ -134,8 +134,8 @@ special_mode_mask values:
       <A3Video>olive_s5k2l7sx_sunny_india_zsl_video</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="2">
-      <ISPPreview>olive_s5k2l7sx_sunny_india_snapshot</ISPPreview>
-      <ISPSnapshot>olive_s5k2l7sx_sunny_india_snapshot</ISPSnapshot>
+      <ISPPreview>olive_s5k2l7sx_sunny_india_bokeh_snapshot</ISPPreview>
+      <ISPSnapshot>olive_s5k2l7sx_sunny_india_bokeh_snapshot</ISPSnapshot>
       <ISPVideo>olive_s5k2l7sx_sunny_india_default_video</ISPVideo>
       <CPPPreview>olive_s5k2l7sx_sunny_india_cpp_preview</CPPPreview>
       <CPPSnapshot>olive_s5k2l7sx_sunny_india_cpp_snapshot</CPPSnapshot>

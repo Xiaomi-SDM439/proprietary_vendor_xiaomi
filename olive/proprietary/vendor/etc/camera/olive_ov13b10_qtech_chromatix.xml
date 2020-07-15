@@ -141,7 +141,7 @@ special_mode_mask values:
       <CPPSnapshot>olive_ov13b10_qtech_cpp_preview</CPPSnapshot>
       <CPPVideo>olive_ov13b10_qtech_cpp_video</CPPVideo>
       <CPPLiveshot>olive_ov13b10_qtech_cpp_liveshot</CPPLiveshot>
-      <A3Preview>olive_ov13b10_qtech_a3_default_preview</A3Preview>
+      <A3Preview>olive_ov13b10_qtech_bokeh_preview_3a</A3Preview>
       <A3Video>olive_ov13b10_qtech_a3_default_video</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="3">
